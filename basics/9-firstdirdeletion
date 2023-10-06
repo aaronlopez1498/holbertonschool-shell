@@ -1,2 +1,2 @@
 #!/bin/bash
-rmmkdir/my_first_directory/tmp/
+rmkdir/my_first_directory/tmp/
