@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -R +X []
+find . -type d -execdir chmod -R +X [] +
