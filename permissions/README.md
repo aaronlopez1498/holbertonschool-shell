@@ -1,2 +1,2 @@
 #!/bin/bash
-REAd me is not empty
+REAd me is not emptyy
