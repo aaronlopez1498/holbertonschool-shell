@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f all js ./dir.js:
+find . -type f -name "*.js" -exec rm -r {} +
