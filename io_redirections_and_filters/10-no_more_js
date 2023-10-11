@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f js ./dir.js:
+rm -f all js ./dir.js:
